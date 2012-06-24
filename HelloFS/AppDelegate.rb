@@ -6,7 +6,7 @@
 framework 'MacFUSE'
 
 class AppDelegate
-    attr_accessor :window, :fs
+    attr_accessor :window
     
     KGMUserFileSystemDidMount = "kGMUserFileSystemDidMount"
     KGMUserFileSystemDidUnmount = "kGMUserFileSystemDidUnmount"
