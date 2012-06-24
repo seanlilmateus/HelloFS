@@ -2,9 +2,6 @@
 #  rb_main.rb
 #  HelloFS
 #
-#  Created by Mateus Armando on 17.04.12.
-#  Copyright (c) 2012 Sean Coorp. INC. All rights reserved.
-#
 
 # Loading the Cocoa framework. If you need to load more frameworks, you can
 # do that here too.

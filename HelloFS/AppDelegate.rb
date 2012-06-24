@@ -2,8 +2,6 @@
 #  AppDelegate.rb
 #  HelloFS
 #
-#  Created by Mateus Armando on 17.04.12.
-#  Copyright 2012 Sean Coorp. INC. All rights reserved.
 #
 framework 'MacFUSE'
 
