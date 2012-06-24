@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4F92C3CD159714A5009ADE17 /* helloFS.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4F92C3CC159714A5009ADE17 /* helloFS.PNG */; };
+		4F92C3D01597156C009ADE17 /* helloFS.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4F92C3CF1597156C009ADE17 /* helloFS.PNG */; };
 		4F96153A153E1372002AD010 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F961539153E1372002AD010 /* Cocoa.framework */; };
 		4F961545153E1372002AD010 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F961543153E1372002AD010 /* InfoPlist.strings */; };
 		4F961547153E1372002AD010 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F961546153E1372002AD010 /* main.m */; };
@@ -32,7 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4F92C3CC159714A5009ADE17 /* helloFS.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = helloFS.PNG; sourceTree = "<group>"; };
+		4F92C3CF1597156C009ADE17 /* helloFS.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = helloFS.PNG; sourceTree = "<group>"; };
 		4F961535153E1372002AD010 /* HelloFS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloFS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F961539153E1372002AD010 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		4F961542153E1372002AD010 /* HelloFS-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloFS-Info.plist"; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 		4F96152A153E1371002AD010 = {
 			isa = PBXGroup;
 			children = (
-				4F92C3CC159714A5009ADE17 /* helloFS.PNG */,
+				4F92C3CF1597156C009ADE17 /* helloFS.PNG */,
 				4FBFD4D715970FEF0041E841 /* README.md */,
 				4F961540153E1372002AD010 /* HelloFS */,
 				4F961538153E1372002AD010 /* Frameworks */,
@@ -208,7 +208,7 @@
 				4F96155D153E1467002AD010 /* hellodoc.icns in Resources */,
 				4F96155F153E1475002AD010 /* Fuse.icns in Resources */,
 				4FBFD4D815970FEF0041E841 /* README.md in Resources */,
-				4F92C3CD159714A5009ADE17 /* helloFS.PNG in Resources */,
+				4F92C3D01597156C009ADE17 /* helloFS.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
