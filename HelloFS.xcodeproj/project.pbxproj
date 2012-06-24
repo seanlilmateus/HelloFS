@@ -17,7 +17,7 @@
 		4F96155D153E1467002AD010 /* hellodoc.icns in Resources */ = {isa = PBXBuildFile; fileRef = 4F96155C153E1467002AD010 /* hellodoc.icns */; };
 		4F96155F153E1475002AD010 /* Fuse.icns in Resources */ = {isa = PBXBuildFile; fileRef = 4F96155E153E1475002AD010 /* Fuse.icns */; };
 		4FB1C0D51593C0E3000A03FE /* MacRuby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FB1C0D41593C0E3000A03FE /* MacRuby.framework */; };
-		4FBFD4D815970FEF0041E841 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 4FBFD4D715970FEF0041E841 /* README */; };
+		4FBFD4D815970FEF0041E841 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4FBFD4D715970FEF0041E841 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +44,7 @@
 		4F96155C153E1467002AD010 /* hellodoc.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = hellodoc.icns; sourceTree = "<group>"; };
 		4F96155E153E1475002AD010 /* Fuse.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Fuse.icns; sourceTree = "<group>"; };
 		4FB1C0D41593C0E3000A03FE /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = /Library/Frameworks/MacRuby.framework; sourceTree = "<absolute>"; };
-		4FBFD4D715970FEF0041E841 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		4FBFD4D715970FEF0041E841 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +63,7 @@
 		4F96152A153E1371002AD010 = {
 			isa = PBXGroup;
 			children = (
-				4FBFD4D715970FEF0041E841 /* README */,
+				4FBFD4D715970FEF0041E841 /* README.md */,
 				4F961540153E1372002AD010 /* HelloFS */,
 				4F961538153E1372002AD010 /* Frameworks */,
 				4F961536153E1372002AD010 /* Products */,
@@ -204,7 +204,7 @@
 				4F96155B153E13D1002AD010 /* HelloFuseFileSystem.rb in Resources */,
 				4F96155D153E1467002AD010 /* hellodoc.icns in Resources */,
 				4F96155F153E1475002AD010 /* Fuse.icns in Resources */,
-				4FBFD4D815970FEF0041E841 /* README in Resources */,
+				4FBFD4D815970FEF0041E841 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
